@@ -1,4 +1,5 @@
-cordova.js
-==========
 
-Cordova's javascript library for component(1)
+# cordova.js
+
+  Cordova's javascript library for component(1)
+

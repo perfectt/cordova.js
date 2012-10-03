@@ -1,0 +1,7 @@
+{
+  "name": "cordova.js"
+, "repo": "perfectt/cordova.js"
+, "description": "Cordova's javascript library for component(1)"
+, "version": "0.0.1"
+, "scripts": [ "index.js" ]
+}
